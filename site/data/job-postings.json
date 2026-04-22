@@ -145,6 +145,43 @@
     "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   },
   {
+    "id": "anthropic-5153761008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Technical Deployment Lead, Applied AI",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5153761008",
+    "location": "Paris, France",
+    "team": "Sales",
+    "posted_at": "2026-03-24T17:36:09-04:00",
+    "updated_at": "2026-04-01T10:49:08-04:00",
+    "score": 85,
+    "tags": [
+      "Applied AI",
+      "Solutions",
+      "Automation",
+      "GTM"
+    ],
+    "summary": "Anthropic 这份《Technical Deployment Lead, Applied AI》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经在把 AI 从技术优势转成收入引擎，招聘重点从“技术可行”转向“市场落地”。",
+    "hidden_signal": "隐藏信号是：AI 商业化已经进入 adoption 阶段，公司要找能把“兴趣”变成“使用与续费”的人。",
+    "must_have": [
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断",
+      "工作流设计"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "anthropic-5014500008",
     "company": "Anthropic",
     "company_type": "模型公司",
