@@ -21,6 +21,8 @@
 
 - `docs/product-brief.zh.md`：产品定位
 - `docs/ebook-outline.zh.md`：电子书大纲
+- `docs/ebook-v1-full.zh.md`：第一版电子书正文
+- `docs/ebook-sales-copy.zh.md`：售卖页文案
 - `docs/launch-checklist.zh.md`：7天上线清单
 - `data/job_signal_schema.csv`：岗位信号数据库字段模板
 - `samples/sample-job-signals.zh.md`：样例内容
