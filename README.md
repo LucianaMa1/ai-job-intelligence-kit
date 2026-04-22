@@ -26,6 +26,9 @@
 - `docs/launch-checklist.zh.md`：7天上线清单
 - `data/job_signal_schema.csv`：岗位信号数据库字段模板
 - `samples/sample-job-signals.zh.md`：样例内容
+- `site/`：GitHub Pages 网页前台（卡片式岗位拆解）
+- `scripts/update_job_postings.py`：每日自动抓取并生成 1 条新的岗位拆解
+- `.github/workflows/`：自动更新与自动部署工作流
 
 ## 最小可行产品（MVP）
 

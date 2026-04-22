@@ -1,0 +1,330 @@
+[
+  {
+    "id": "anthropic-5055488008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Applied AI Engineer",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5055488008",
+    "location": "Tokyo, Japan",
+    "team": "Sales",
+    "posted_at": "2026-02-26T23:41:51-05:00",
+    "updated_at": "2026-04-20T19:55:31-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Automation",
+      "GTM"
+    ],
+    "summary": "Anthropic 这份《Applied AI Engineer》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经在把 AI 从技术优势转成收入引擎，招聘重点从“技术可行”转向“市场落地”。",
+    "hidden_signal": "隐藏信号是：AI 商业化已经进入 adoption 阶段，公司要找能把“兴趣”变成“使用与续费”的人。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Automation / GTM + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "anthropic-5017903008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Technical Deployment, Applied AI",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5017903008",
+    "location": "Austin, TX; Boston, MA; New York City, NY; San Francisco, CA; Seattle, WA",
+    "team": "Sales",
+    "posted_at": "2025-12-04T10:12:44-05:00",
+    "updated_at": "2026-04-11T16:51:15-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Solutions",
+      "Automation",
+      "GTM"
+    ],
+    "summary": "Anthropic 这份《Technical Deployment, Applied AI》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经在把 AI 从技术优势转成收入引擎，招聘重点从“技术可行”转向“市场落地”。",
+    "hidden_signal": "隐藏信号是：AI 商业化已经进入 adoption 阶段，公司要找能把“兴趣”变成“使用与续费”的人。",
+    "must_have": [
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断",
+      "工作流设计"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "databricks-8401114002",
+    "company": "Databricks",
+    "company_type": "数据 / AI 平台",
+    "source_type": "Greenhouse",
+    "source_label": "databricks",
+    "title": "Staff Machine Learning Engineer ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002",
+    "location": "San Francisco, California",
+    "team": "Engineering - Pipeline",
+    "posted_at": "2026-02-02T17:44:35-05:00",
+    "updated_at": "2026-04-09T16:51:23-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Infrastructure"
+    ],
+    "summary": "Databricks 这份《Staff Machine Learning Engineer 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
+    "hidden_signal": "隐藏信号是：他们不再只想做一个演示效果好的系统，而是要一个能持续上线、可观测、可迭代的能力栈。",
+    "must_have": [
+      "Python",
+      "SQL",
+      "LLM apps",
+      "RAG",
+      "模型评估"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "databricks-7276195002",
+    "company": "Databricks",
+    "company_type": "数据 / AI 平台",
+    "source_type": "Greenhouse",
+    "source_label": "databricks",
+    "title": "Sr. Machine Learning Engineer ",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002",
+    "location": "San Francisco, California",
+    "team": "Engineering - Pipeline",
+    "posted_at": "2024-03-07T12:17:45-05:00",
+    "updated_at": "2026-04-09T16:51:10-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Infrastructure"
+    ],
+    "summary": "Databricks 这份《Sr. Machine Learning Engineer 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
+    "hidden_signal": "隐藏信号是：他们不再只想做一个演示效果好的系统，而是要一个能持续上线、可观测、可迭代的能力栈。",
+    "must_have": [
+      "Python",
+      "SQL",
+      "LLM apps",
+      "RAG",
+      "模型评估"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "anthropic-5014500008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Applied AI Engineer",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5014500008",
+    "location": "Seoul, South Korea",
+    "team": "Sales",
+    "posted_at": "2026-02-12T07:52:25-05:00",
+    "updated_at": "2026-04-01T10:49:08-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Automation",
+      "GTM"
+    ],
+    "summary": "Anthropic 这份《Applied AI Engineer》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经在把 AI 从技术优势转成收入引擎，招聘重点从“技术可行”转向“市场落地”。",
+    "hidden_signal": "隐藏信号是：AI 商业化已经进入 adoption 阶段，公司要找能把“兴趣”变成“使用与续费”的人。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Automation / GTM + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "anthropic-5057647008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Applied AI Engineer (Digital Natives Business) ",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "team": "Sales",
+    "posted_at": "2026-01-08T15:47:40-05:00",
+    "updated_at": "2026-04-01T10:49:08-04:00",
+    "score": 87,
+    "tags": [
+      "Applied AI",
+      "Automation",
+      "GTM"
+    ],
+    "summary": "Anthropic 这份《Applied AI Engineer (Digital Natives Business) 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经在把 AI 从技术优势转成收入引擎，招聘重点从“技术可行”转向“市场落地”。",
+    "hidden_signal": "隐藏信号是：AI 商业化已经进入 adoption 阶段，公司要找能把“兴趣”变成“使用与续费”的人。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Automation / GTM + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "scaleai-4602177005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Forward Deployed AI Engineering Manager, Enterprise ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4602177005",
+    "location": "San Francisco, CA; New York, NY",
+    "team": "Enterprise Engineering",
+    "posted_at": "2026-01-27T06:48:33-05:00",
+    "updated_at": "2026-03-26T19:42:41-04:00",
+    "score": 95,
+    "tags": [
+      "Applied AI",
+      "Solutions",
+      "Automation",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Forward Deployed AI Engineering Manager, Enterprise 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经进入更强的商业化和交付阶段，需要有人把产品能力真正送进客户流程。",
+    "hidden_signal": "隐藏信号是：公司非常看重“贴着客户现场解决问题”的能力，单纯写代码不够，还要能翻译业务和推进交付。",
+    "must_have": [
+      "Python",
+      "RAG",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "scaleai-4597399005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Senior Forward Deployed AI Engineer, Enterprise ",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4597399005",
+    "location": "San Francisco, CA; New York, NY",
+    "team": "Enterprise Engineering",
+    "posted_at": "2025-08-20T19:52:51-04:00",
+    "updated_at": "2026-03-26T19:42:41-04:00",
+    "score": 95,
+    "tags": [
+      "Applied AI",
+      "Solutions",
+      "Automation",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Senior Forward Deployed AI Engineer, Enterprise 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经进入更强的商业化和交付阶段，需要有人把产品能力真正送进客户流程。",
+    "hidden_signal": "隐藏信号是：公司非常看重“贴着客户现场解决问题”的能力，单纯写代码不够，还要能翻译业务和推进交付。",
+    "must_have": [
+      "Python",
+      "RAG",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
+    "id": "scaleai-4658162005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Senior/Staff Machine Learning Engineer, General Agents, Enterprise GenAI",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4658162005",
+    "location": "San Francisco, CA; New York, NY",
+    "team": "Enterprise Engineering",
+    "posted_at": "2026-02-10T12:09:09-05:00",
+    "updated_at": "2026-03-26T19:42:41-04:00",
+    "score": 91,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Automation",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Senior/Staff Machine Learning Engineer, General Agents, Enterprise GenAI》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
+    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  }
+]
