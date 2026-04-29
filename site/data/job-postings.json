@@ -1,5 +1,39 @@
 [
   {
+    "id": "verkada-5022552007",
+    "company": "Verkada",
+    "company_type": "AI 硬件 / 安防应用",
+    "source_type": "Greenhouse",
+    "source_label": "verkada",
+    "title": "Software Engineering Manager - Search",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5022552007",
+    "location": "San Mateo, CA United States",
+    "team": "Cameras",
+    "posted_at": "2026-04-28T19:58:24-04:00",
+    "updated_at": "2026-04-28T19:58:24-04:00",
+    "score": 85,
+    "tags": [
+      "Applied AI"
+    ],
+    "summary": "Verkada 这份《Software Engineering Manager - Search》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经不只是在讨论 AI，而是在围绕真实业务问题补关键角色。",
+    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Verkada 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "anthropic-5121563008",
     "company": "Anthropic",
     "company_type": "模型公司",
