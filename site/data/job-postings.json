@@ -182,6 +182,42 @@
     "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   },
   {
+    "id": "databricks-8521190002",
+    "company": "Databricks",
+    "company_type": "数据 / AI 平台",
+    "source_type": "Greenhouse",
+    "source_label": "databricks",
+    "title": "Principal Research Scientist – Scaling",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8521190002",
+    "location": "San Francisco, California",
+    "team": "Executive Engineering - Pipeline",
+    "posted_at": "2026-04-23T13:38:36-04:00",
+    "updated_at": "2026-04-23T13:38:36-04:00",
+    "score": 83,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Infrastructure"
+    ],
+    "summary": "Databricks 这份《Principal Research Scientist – Scaling》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司还在加码核心模型/算法能力，想把实验性进展继续转成差异化能力，而不是只做表层包装。",
+    "hidden_signal": "隐藏信号是：这家公司依然把核心技术壁垒当作竞争重点，研究和工程边界会比较模糊。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "anthropic-5055488008",
     "company": "Anthropic",
     "company_type": "模型公司",
