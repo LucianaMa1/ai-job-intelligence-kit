@@ -36,6 +36,42 @@
     "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   },
   {
+    "id": "scaleai-4281519005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Senior Machine Learning Engineer, Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4281519005",
+    "location": "San Francisco, CA; New York, NY; Washington, DC",
+    "team": "Public Sector Engineering",
+    "posted_at": "2023-06-09T17:24:47-04:00",
+    "updated_at": "2026-04-30T16:08:06-04:00",
+    "score": 83,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Senior Machine Learning Engineer, Public Sector》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
+    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Enterprise + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "verkada-5022552007",
     "company": "Verkada",
     "company_type": "AI 硬件 / 安防应用",
