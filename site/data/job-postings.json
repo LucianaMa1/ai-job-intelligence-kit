@@ -108,6 +108,42 @@
     "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   },
   {
+    "id": "scaleai-4488520005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Senior / Staff Machine Learning Research Scientist, Agents",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4488520005",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "team": "Research",
+    "posted_at": "2024-10-25T17:38:01-04:00",
+    "updated_at": "2026-04-29T18:16:45-04:00",
+    "score": 82,
+    "tags": [
+      "Applied AI",
+      "Research",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Senior / Staff Machine Learning Research Scientist, Agents》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司还在加码核心模型/算法能力，想把实验性进展继续转成差异化能力，而不是只做表层包装。",
+    "hidden_signal": "隐藏信号是：这家公司依然把核心技术壁垒当作竞争重点，研究和工程边界会比较模糊。",
+    "must_have": [
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断",
+      "工作流设计"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Enterprise + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "verkada-5022552007",
     "company": "Verkada",
     "company_type": "AI 硬件 / 安防应用",
