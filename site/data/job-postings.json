@@ -1,5 +1,42 @@
 [
   {
+    "id": "scaleai-4653827005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Senior Software Engineer, Agentic Data Products",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4653827005",
+    "location": "San Francisco, CA",
+    "team": "Data, Technology & Systems",
+    "posted_at": "2026-01-26T19:50:38-05:00",
+    "updated_at": "2026-05-08T12:41:20-04:00",
+    "score": 82,
+    "tags": [
+      "Applied AI",
+      "Product",
+      "Automation",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Senior Software Engineer, Agentic Data Products》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司不满足于“模型能不能跑”，而是要把 AI 能力变成可管理、可衡量、可上线的产品体验。",
+    "hidden_signal": "隐藏信号是：他们要的不是传统 PRD 型 PM，而是能定义 workflow、评估效果、推动组织协作的人。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "RAG",
+      "模型评估",
+      "客户沟通"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Product / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "databricks-8532728002",
     "company": "Databricks",
     "company_type": "数据 / AI 平台",
