@@ -1,5 +1,41 @@
 [
   {
+    "id": "scaleai-4413992005",
+    "company": "Scale AI",
+    "company_type": "AI 基础设施",
+    "source_type": "Greenhouse",
+    "source_label": "scaleai",
+    "title": "Applied AI Engineer, Global Public Sector",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4413992005",
+    "location": "Doha, Qatar; London, UK",
+    "team": "GPS Engineering",
+    "posted_at": "2024-05-01T09:47:18-04:00",
+    "updated_at": "2026-06-22T07:41:01-04:00",
+    "score": 80,
+    "tags": [
+      "Applied AI",
+      "Automation",
+      "Enterprise"
+    ],
+    "summary": "Scale AI 这份《Applied AI Engineer, Global Public Sector》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
+    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Scale AI 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Automation / Enterprise + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "databricks-8574655002",
     "company": "Databricks",
     "company_type": "数据 / AI 平台",
@@ -1269,41 +1305,5 @@
       "研究/算法背景的人"
     ],
     "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Solutions / Automation + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
-  },
-  {
-    "id": "databricks-8401114002",
-    "company": "Databricks",
-    "company_type": "数据 / AI 平台",
-    "source_type": "Greenhouse",
-    "source_label": "databricks",
-    "title": "Staff Machine Learning Engineer ",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002",
-    "location": "San Francisco, California",
-    "team": "Engineering - Pipeline",
-    "posted_at": "2026-02-02T17:44:35-05:00",
-    "updated_at": "2026-04-09T16:51:23-04:00",
-    "score": 87,
-    "tags": [
-      "Applied AI",
-      "Research",
-      "Infrastructure"
-    ],
-    "summary": "Databricks 这份《Staff Machine Learning Engineer 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
-    "why_it_exists": "这说明公司正在补齐从 demo 到 production 的关键工程能力，重点是稳定性、性能和集成。",
-    "hidden_signal": "隐藏信号是：他们不再只想做一个演示效果好的系统，而是要一个能持续上线、可观测、可迭代的能力栈。",
-    "must_have": [
-      "Python",
-      "SQL",
-      "LLM apps",
-      "RAG",
-      "模型评估"
-    ],
-    "fit_for": [
-      "工程 + 产品 sense 的人",
-      "懂客户场景又能推进交付的人",
-      "做产品/运营转 AI 的人",
-      "研究/算法背景的人"
-    ],
-    "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   }
 ]
