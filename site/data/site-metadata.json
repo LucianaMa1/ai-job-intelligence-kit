@@ -1,12 +1,13 @@
 {
   "title": "AI求职信息差手册",
-  "last_updated": "2026-07-22T16:46:08+00:00",
-  "last_updated_display": "2026-07-22",
+  "last_updated": "2026-07-23T16:46:23+00:00",
+  "last_updated_display": "2026-07-23",
   "total_cards": 36,
-  "total_sources": 3,
+  "total_sources": 4,
   "source_names": [
     "Anthropic",
     "Databricks",
-    "Scale AI"
+    "Scale AI",
+    "Together AI"
   ]
 }
