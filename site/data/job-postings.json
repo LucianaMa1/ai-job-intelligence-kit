@@ -1,5 +1,39 @@
 [
   {
+    "id": "anthropic-5442934008",
+    "company": "Anthropic",
+    "company_type": "模型公司",
+    "source_type": "Greenhouse",
+    "source_label": "anthropic",
+    "title": "Manager, Applied AI Engineering (Megas) ",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442934008",
+    "location": "San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA",
+    "team": "Applied AI",
+    "posted_at": "2026-10-05T14:08:14-04:00",
+    "updated_at": "2026-10-05T14:08:14-04:00",
+    "score": 88,
+    "tags": [
+      "Applied AI"
+    ],
+    "summary": "Anthropic 这份《Manager, Applied AI Engineering (Megas) 》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
+    "why_it_exists": "这说明公司已经不只是在讨论 AI，而是在围绕真实业务问题补关键角色。",
+    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
+    "must_have": [
+      "Python",
+      "LLM apps",
+      "模型评估",
+      "客户沟通",
+      "产品判断"
+    ],
+    "fit_for": [
+      "工程 + 产品 sense 的人",
+      "懂客户场景又能推进交付的人",
+      "做产品/运营转 AI 的人",
+      "研究/算法背景的人"
+    ],
+    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
+  },
+  {
     "id": "scaleai-4720478005",
     "company": "Scale AI",
     "company_type": "AI 基础设施",
@@ -1269,41 +1303,5 @@
       "研究/算法背景的人"
     ],
     "takeaway": "如果你在观察 Databricks 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Research / Infrastructure + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
-  },
-  {
-    "id": "anthropic-5057647008",
-    "company": "Anthropic",
-    "company_type": "模型公司",
-    "source_type": "Greenhouse",
-    "source_label": "anthropic",
-    "title": "Applied AI Engineer, Enterprise Tech",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "team": "Applied AI",
-    "posted_at": "2026-01-08T15:47:40-05:00",
-    "updated_at": "2026-08-06T15:13:07-04:00",
-    "score": 87,
-    "tags": [
-      "Applied AI",
-      "Automation",
-      "Enterprise"
-    ],
-    "summary": "Anthropic 这份《Applied AI Engineer, Enterprise Tech》岗位，最值得关注的不是职位名称，而是它说明公司正在把 AI 能力进一步变成真实产品、交付或收入。",
-    "why_it_exists": "这说明公司已经不只是在讨论 AI，而是在围绕真实业务问题补关键角色。",
-    "hidden_signal": "隐藏信号是：岗位表面看起来像一个标题升级，但底层真正招的是“能把 AI 接进业务的人”。",
-    "must_have": [
-      "Python",
-      "LLM apps",
-      "模型评估",
-      "客户沟通",
-      "产品判断"
-    ],
-    "fit_for": [
-      "工程 + 产品 sense 的人",
-      "懂客户场景又能推进交付的人",
-      "做产品/运营转 AI 的人",
-      "研究/算法背景的人"
-    ],
-    "takeaway": "如果你在观察 Anthropic 这类公司，这个岗位最值得看的不是标题本身，而是它暴露出的组织优先级：现在市场在为“Applied AI / Automation / Enterprise + 业务落地”付钱。你的内容产品可以直接把这类岗位转译给中文用户，告诉他们到底什么能力开始值钱。"
   }
 ]
